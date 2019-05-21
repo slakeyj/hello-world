@@ -1,2 +1,2 @@
-# hello-world
-Practicing git and GitHub
+# Hello World
+**Practicing git and GitHub**
